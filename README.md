@@ -10,7 +10,7 @@ L'objectiu principal que m'agradaria assolir amb la creació d'aquesta web és q
 ### Continguts
 
 Els continguts per realitzar la web els he obtingut de la següent manera:
-  1. Coordenades dels vaixells enfonsats: han sigut extretes a partir d'una presentació que va exposar l'alcalde de l'Ametlla de Mar per    l'assignatura de Projecte 4 a la Facultat de Turisme i Geografia de la URV pels alumnes de geografia del segon curs. Així doncs, d'aquesta manera he sabut on s'ubiquen exactament aquests vaixells, tot i que a la pàgina web de l'Ametlla de Mar o altres webs es poden trobar/visitar aquestes dades. 
+  1. Coordenades dels vaixells enfonsats: han sigut extretes a partir d'una presentació que va exposar l'alcalde (Jordi Gaseni Blanch) de l'Ametlla de Mar per    l'assignatura de Projecte 4 a la Facultat de Turisme i Geografia de la URV pels alumnes de geografia del segon curs. Així doncs, d'aquesta manera he sabut on s'ubiquen exactament aquests vaixells, tot i que a la pàgina web de l'Ametlla de Mar o altres webs es poden trobar/visitar aquestes dades. 
   2. Imatges: A banda de les imatges dels vaixells que les podem trobar a la xarxa, m'he descarregat imatges del mar, dels mateixos vaixells amb bussos fent immersions per observar-los, del municipi, etc. 
   3. Mapa: el mapa que voldria afegir a la web és un mapa amb la localització d'aquests vaixells incloent una foto de cada vaixell sobre el punt de les coordenades on es troba cadascun o d'una altra manera digitalitzar el mapa igualment però fer-lo més interactiu de manera que quan els usuaris passin el cursor per sobre o hi pitgin a sobre s'obri la fotografia del vaixell corresponent, amb les coordenades i el nom d'aquest. 
 
