@@ -20,7 +20,7 @@ L'estructura de la web, m'agradaria que fos un tant dinàmica (imatges, diferent
 
 Una altre punt que voldria afegir a la meva web, seria que els usuaris poguessin consultar-la en l'idioma que preferissin (Català, Castellà, Anglès i Francès). I que fos apta per consultar amb smartphone, no només amb ordinador. 
 
-*Cartografia (en procés)
+### *Cartografia (en procés)
 
 ### Dificultats i millores 
 
